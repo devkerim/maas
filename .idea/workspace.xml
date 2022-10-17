@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7997b9d-2b6b-43d6-a488-83c6b285a201" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Account/Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BicycleRegistration/BicycleRegistration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ch3Circle/Ch3Circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ch3LoanCalculator/Ch3LoanCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ch3TestCalendar/Ch3TestCalendar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeductionWithFee/DeductionWithFee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Masaüstü/İAÜ/3. SINIF/1. Dönem/OBJECT ORIENTED PROGRAMMING LAB/Ch2Monogram/Ch2Monogram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Masaüstü/İAÜ/3. SINIF/1. Dönem/OBJECT ORIENTED PROGRAMMING LAB/Ch5SampleGraphics/Ch5SampleGraphics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boxgame/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boxgame/src/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../burcprogrami/burcprogrami.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/out/production/calculator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/ifelse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java101/java101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapatika/javapatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/manavkasa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/out/production/manavkasa/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manavkasa/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxminId/maxminId.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passwordchanger/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passwordchanger/passwordchanger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rythfgdc/rythfgdc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sicaklikonerisi/sicaklikonerisi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sinifgecme/sinifgecme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentnotesystem/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentnotesystem/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentnotesystem/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../switchcase/switchcase.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GGEj6WGdr1pc6pmiWN9aXiYeoy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="fabrica" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7997b9d-2b6b-43d6-a488-83c6b285a201" name="Default Changelist" comment="" />
+      <created>1666006652311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666006652311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="723" height="223" key="GridCell.Tab.0.bottom" timestamp="1666009048634">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1666009048634" />
+    <state width="723" height="223" key="GridCell.Tab.0.center" timestamp="1666009048633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1666009048633" />
+    <state width="723" height="223" key="GridCell.Tab.0.left" timestamp="1666009048632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1666009048632" />
+    <state width="723" height="223" key="GridCell.Tab.0.right" timestamp="1666009048633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1666009048633" />
+    <state x="360" y="53" key="new project wizard" timestamp="1666006676336">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1666006676336" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1666006801862">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1666006801862" />
+  </component>
+</project>
